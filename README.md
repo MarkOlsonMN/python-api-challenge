@@ -11,7 +11,7 @@ URL:        https://github.com/MarkOlsonMN/python-api-challenge
 
 ## Code Source/Location within this Repo  
 ReadMe : &nbsp;python-api-challenge/README.md  
-Ignore : &nbsp;&nbsp;&nbsp;&nbsp;python-api-challenge/.gitignore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( purpose: ignore local "api_keys.py" file, which stores API Key authorization tokens)  
+Ignore : &nbsp;&nbsp;&nbsp;&nbsp;python-api-challenge/.gitignore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;( purpose: ignore local "api_keys.py" file )  
 WeatherPy ...  
 &nbsp;&nbsp;&nbsp;&nbsp;Jupyter Notebook (code) :&nbsp;&nbsp;python-api-challenge/WeatherPy/WeatherPy_Jupyter_Notebook.ipynb  
 VacationPy ...  
