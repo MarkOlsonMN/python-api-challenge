@@ -16,3 +16,9 @@ WeatherPy ...
 &nbsp;&nbsp;&nbsp;&nbsp;Jupyter Notebook (code) :&nbsp;&nbsp;python-api-challenge/WeatherPy/WeatherPy_Jupyter_Notebook.ipynb  
 VacationPy ...  
 &nbsp;&nbsp;&nbsp;&nbsp;Jupyter Notebook (code) :&nbsp;&nbsp;python-api-challenge/WeatherPy/VacationPy_Jupyter_Notebook.ipynb  
+Data ...  
+&nbsp;&nbsp;&nbsp;&nbsp;Cities (generated data) &nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;python-api-challenge/WeatherPy/output_data/cities.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;Figure 1 (generated plot) :&nbsp;&nbsp;python-api-challenge/WeatherPy/output_data/Fig1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;Figure 2 (generated plot) :&nbsp;&nbsp;python-api-challenge/WeatherPy/output_data/Fig2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;Figure 3 (generated plot) :&nbsp;&nbsp;python-api-challenge/WeatherPy/output_data/Fig3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;Figure 4 (generated plot) :&nbsp;&nbsp;python-api-challenge/WeatherPy/output_data/Fig4.png  
